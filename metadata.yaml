@@ -1,0 +1,29 @@
+_repo: The-tragedy-of-Monomoy-Beach-b-The-graveyard-of-the-Atlantic_70626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bearse, Clarkson P.
+    gutenberg_agent_id: '55833'
+    url: http://www.gutenberg.org/2009/agents/55833
+description: ''
+gutenberg_issued: '2023-04-23'
+identifiers:
+  gutenberg: '70626'
+language: en
+pgterms:marc905: 20230405025443bearsesr
+pgterms:marc906: '1943'
+pgterms:marc907: US
+production_note: Steve Mattern
+publication_note: '  $aUnited States :$bThe Goss Print, $c1943.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lifesaving stations -- Cape Cod'
+- !lcsh 'Monomoy Island (Mass.) -- History'
+- !lcsh 'Monomoy Life-Saving Station (U.S.)'
+- !lcsh 'Shipwrecks -- Cape Cod'
+- !lcc 'F001'
+- GITenberg
+title: 'The tragedy of Monomoy Beach : $b The graveyard of the Atlantic'
+url: http://www.gutenberg.org/ebooks/70626
